@@ -32,3 +32,6 @@ arDdnsCheck "test.org" "subdomain"
 
 # IPv6:
 arDdnsCheck "test.org" "subdomain6" 6
+
+# TXT:
+#arTxtCheck "test.org" "subdomain" 8.8.8.8 3389
